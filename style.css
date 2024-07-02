@@ -1,0 +1,12 @@
+body{
+    background-image: url("./assets/colors.jpg") ;
+    background-size: cover;
+}
+
+button {
+    width: 150px;
+    height: 150px;
+    margin-left: 50px; 
+    text-align: center;
+    margin: 20% 0px 0px 25%;
+}
